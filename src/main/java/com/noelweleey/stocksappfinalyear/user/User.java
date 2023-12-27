@@ -9,4 +9,8 @@ public class User {
 
     @Id
     private Long userID;
+
+    private String FirstName;
+
+    private String LastName
 }
